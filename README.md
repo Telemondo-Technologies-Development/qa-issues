@@ -1,4 +1,4 @@
-# qa-issues
+# QA Issues
 
 Issues created by our interns!
 
