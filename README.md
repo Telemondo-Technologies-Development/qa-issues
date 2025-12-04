@@ -31,8 +31,6 @@ Environment:
 Attachments:
 [Attach screenshots, videos, or any other relevant files if applicable.]
 
-Priority: [Low/Medium/High]
-
 ## Feature Request Template:
 
 Title: [Brief description of the feature request]
@@ -43,8 +41,6 @@ Description:
 Use Case:
 [Describe a hypothetical scenario where this feature would be used.]
 
-Priority: [Low/Medium/High]
-
 ## Enhancement Request Template:
 
 Title: [Brief description of the enhancement request]
@@ -54,8 +50,6 @@ Description:
 
 Use Case:
 [Describe a hypothetical scenario where this enhancement would be beneficial.]
-
-Priority: [Low/Medium/High]
 
 ## General Issue Template:
 
@@ -70,5 +64,3 @@ Steps to Reproduce (if applicable):
 3. [Step 3]
 
 ...
-
-Priority: [Low/Medium/High]
